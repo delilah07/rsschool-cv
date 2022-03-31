@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm calm, friendly, not conflict person  and like to be part of the group.
+I'm calm, friendly, not conflict person and like to be part of the group.
 I like to see the results of my work in different aspects of my life (hobby, home, work).
 I'm self-organized person, I enjoy learning something new whenever I have time.
 
@@ -22,13 +22,13 @@ I'm self-organized person, I enjoy learning something new whenever I have time.
 
 - HTML 5
 - CSS 3
-- Less
-- Sass/Scss
+- Less, Sass/Scss
 - Pug
-- Gulp
-- Bootstrap 3/4
-- JavaScript (basics)
+- Gulp, Webpack, Parsel
+- Bootstrap 3/4, Bulma
+- JavaScript
 - jQuery
+- Git
 - Adobe Photoshop
 - Adobe Illustrator
 - Coral Draw
@@ -36,18 +36,19 @@ I'm self-organized person, I enjoy learning something new whenever I have time.
 - Figma
 
 ## Code example
+
 - https://github.com/delilah07/Go-Surf
-web-page using Gulp, HTML, SCSS, jQuery 
+  web-page using Gulp, HTML, SCSS, jQuery
 - https://codepen.io/iryna-abrosimova/pen/mdJMoeL
-dropdown menu using CSS
+  dropdown menu using CSS
 - https://github.com/delilah07/LogoType
-web-page using HTML, CSS, jQuery
+  web-page using HTML, CSS, jQuery
 - https://codepen.io/iryna-abrosimova/pen/JjPMZzx
-CSS Generator using JS
+  CSS Generator using JS
 - https://github.com/delilah07/activebox
-web-page using HTML, CSS, jQuery
+  web-page using HTML, CSS, jQuery
 - https://codepen.io/iryna-abrosimova/pen/oOroQL
-RGB Game using JS
+  RGB Game using JS
 
 ## Experience
 
@@ -61,59 +62,39 @@ My last works are:
   https://geniustudio.net/services/shablonnye-resheniya2/,
   https://geniustudio.net/services/razrabotka-proektov-po-vashey-biznes-idee2/,
   https://geniustudio.net/services/reklama_facebook_instagramm_google/
-add 7 pages
-    - HTML
-    - CSS
-    - jQuery
+  add 7 pages - HTML - CSS - jQuery
 
 - https://coffeex.ru/
-redesing website coffice.ua for Russion market
+  redesing website coffice.ua for Russion market
 
-- https://coffice.ua/business/hotel/, https://coffice.ua/business/exhibition/,  https://coffice.ua/business/exhibition/
-add three pages 
-    - HTML
-    - CSS
-    - jQuery
-    
+- https://coffice.ua/business/hotel/, https://coffice.ua/business/exhibition/, https://coffice.ua/business/exhibition/
+  add three pages - HTML - CSS - jQuery
 - https://coffice.ua/basket/order/
-desktop and mob version
-    - HTML
-    - CSS
-    - jQuery for accordiongs, tabs and phone number
+  desktop and mob version - HTML - CSS - jQuery for accordiongs, tabs and phone number
 
 - http://khrada.gov.ua/pro_rajon/mapa-rajonu/
-desktop version
-    - HTML
-    - CSS
-    - jQuery for Google Maps, section with categories and search
+  desktop version - HTML - CSS - jQuery for Google Maps, section with categories and search
 
 - http://khrada.gov.ua/state/lutvunenko-maksum-vladislavovuch/
-desktop version
-    - HTML
-    - CSS, CSS animation
-    - jQuery for tabs
+  desktop version - HTML - CSS, CSS animation - jQuery for tabs
 
 - http://khrada.gov.ua/sesijna-robota/rishennia-sesijnoi-rady/
-pop-up with vote
-    - HTML
-    - CSS
-    
-
-    
+  pop-up with vote - HTML - CSS
 -
 
 ## Education
 
 **I finished:**
-- "The Web Developer Bootcamp" *on the Udemy platform*
-- "Responsive Web Design Certification" *on the Freecodecamp platform*
+
+- "The Web Developer Bootcamp" _on the Udemy platform_
+- "Responsive Web Design Certification" _on the Freecodecamp platform_
 - YouTube platform, a lot of video
 
 **Currently styding:**
 
-- "The Complete JavaScript Course 2020" Build Real Projects!" *on the Udemy platform*
-- "The Advanced Web Developer Bootcamp" *on the Udemy platform*
-- "JavaScript Algorithms and Data Structures Certification" *on the Freecodecamp platform*
+- "The Complete JavaScript Course 2020" Build Real Projects!" _on the Udemy platform_
+- "The Advanced Web Developer Bootcamp" _on the Udemy platform_
+- "JavaScript Algorithms and Data Structures Certification" _on the Freecodecamp platform_
 
 ## English
 
