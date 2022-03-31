@@ -92,9 +92,9 @@ My last works are:
 
 **Currently styding:**
 
-- "The Complete JavaScript Course 2020" Build Real Projects!" _on the Udemy platform_
-- "The Advanced Web Developer Bootcamp" _on the Udemy platform_
-- "JavaScript Algorithms and Data Structures Certification" _on the Freecodecamp platform_
+- RS School Lithuania: JavaScript / Front-end Mentoring Program in Lithuanian
+  begins on the 12th of January
+- Udemy: The Web Developer Bootcamp and JavaScript Bootcamp
 
 ## English
 
